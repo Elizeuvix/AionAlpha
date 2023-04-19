@@ -1,2 +1,0 @@
-# AionAlpha
-Site Aion Alpha
